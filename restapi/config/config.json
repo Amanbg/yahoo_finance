@@ -1,0 +1,8 @@
+{
+    "YAHOO":
+    {
+        "API_URL": "https://apidojo-yahoo-finance-v1.p.rapidapi.com",
+        "RAPID_API_HOST": "apidojo-yahoo-finance-v1.p.rapidapi.com",
+        "RAPID_API_KEY": "4629d2f9c8msh0a7542093c735cap10e7c5jsn2f7d0a790128"
+    }
+}
