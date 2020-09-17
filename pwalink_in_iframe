@@ -1,0 +1,30 @@
+<html>
+
+  <head>
+    <style>
+      html,
+      body,
+      iframe {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+
+      iframe {
+        display: block;
+        width: 100%;
+        border: none;
+      }
+
+    </style>
+    <title>
+      HTML iframe src Attribute
+    </title>
+  </head>
+
+  <body>
+    <iframe src="https://app.yellowmessenger.com/pwa/live/x1549452266136">
+    </iframe>
+  </body>
+
+</html>
